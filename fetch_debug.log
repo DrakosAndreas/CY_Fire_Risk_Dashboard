@@ -1,0 +1,1158 @@
+2025-08-23 13:07:40,111 INFO: Discovered station-like nodes: 0
+2025-08-23 13:07:48,660 INFO: Discovered station-like nodes: 0
+2025-08-23 13:10:14,251 INFO: Root tag after strip: meteorology
+2025-08-23 13:10:14,355 INFO: Generic station-like nodes discovered: 1153
+2025-08-23 13:10:14,355 INFO: Discovered station-like nodes: 1153
+2025-08-23 13:10:14,356 INFO: Station parsed: name=ACHNA, lat=35.0255056, lon=33.7744306, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,356 INFO: Station parsed: name=ACHNA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,356 INFO: Station parsed: name=35.0255056, lat=35.0255056, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,356 INFO: Station parsed: name=33.7744306, lat=None, lon=33.7744306, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,356 INFO: Station parsed: name=AGROS, lat=34.914875, lon=33.0156667, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,356 INFO: Station parsed: name=AGROS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,356 INFO: Station parsed: name=34.9148750, lat=34.914875, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,356 INFO: Station parsed: name=33.0156667, lat=None, lon=33.0156667, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,356 INFO: Station parsed: name=AKAMAS, lat=35.025974, lon=32.328942, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,356 INFO: Station parsed: name=AKAMAS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,356 INFO: Station parsed: name=35.025974, lat=35.025974, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,356 INFO: Station parsed: name=32.328942, lat=None, lon=32.328942, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,356 INFO: Station parsed: name=ASTROMERITIS, lat=35.1330472, lon=33.0220222, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,356 INFO: Station parsed: name=ASTROMERITIS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,356 INFO: Station parsed: name=35.1330472, lat=35.1330472, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,356 INFO: Station parsed: name=33.0220222, lat=None, lon=33.0220222, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,356 INFO: Station parsed: name=ATHALASSA, lat=35.140957, lon=33.396579, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,356 INFO: Station parsed: name=ATHALASSA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,357 INFO: Station parsed: name=35.140957, lat=35.140957, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,357 INFO: Station parsed: name=33.396579, lat=None, lon=33.396579, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,357 INFO: Station parsed: name=ATHIENOU, lat=35.0502333, lon=33.5423, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,357 INFO: Station parsed: name=ATHIENOU, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,357 INFO: Station parsed: name=35.0502333, lat=35.0502333, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,357 INFO: Station parsed: name=33.5423000, lat=None, lon=33.5423, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,357 INFO: Station parsed: name=AVDIMOU, lat=34.6843722, lon=32.7573694, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,357 INFO: Station parsed: name=AVDIMOU, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,357 INFO: Station parsed: name=34.6843722, lat=34.6843722, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,357 INFO: Station parsed: name=32.7573694, lat=None, lon=32.7573694, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,357 INFO: Station parsed: name=CAVO_GRECO, lat=34.971012, lon=34.070785, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,357 INFO: Station parsed: name=CAVO_GRECO, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,357 INFO: Station parsed: name=34.971012, lat=34.971012, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,357 INFO: Station parsed: name=34.070785, lat=None, lon=34.070785, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,357 INFO: Station parsed: name=CHROMIO, lat=34.9429611, lon=32.8655306, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,357 INFO: Station parsed: name=CHROMIO, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,357 INFO: Station parsed: name=34.9429611, lat=34.9429611, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,357 INFO: Station parsed: name=32.8655306, lat=None, lon=32.8655306, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,357 INFO: Station parsed: name=CYTASAT, lat=34.861263, lon=33.382527, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,358 INFO: Station parsed: name=CYTASAT, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,358 INFO: Station parsed: name=34.861263, lat=34.861263, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,358 INFO: Station parsed: name=33.382527, lat=None, lon=33.382527, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,358 INFO: Station parsed: name=EPTAGONEIA, lat=34.8472556, lon=33.1433722, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,358 INFO: Station parsed: name=EPTAGONEIA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,358 INFO: Station parsed: name=34.8472556, lat=34.8472556, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,358 INFO: Station parsed: name=33.1433722, lat=None, lon=33.1433722, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,358 INFO: Station parsed: name=FARMAKAS, lat=34.9209389, lon=33.1342389, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,358 INFO: Station parsed: name=FARMAKAS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,358 INFO: Station parsed: name=34.9209389, lat=34.9209389, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,358 INFO: Station parsed: name=33.1342389, lat=None, lon=33.1342389, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,358 INFO: Station parsed: name=FRENAROS, lat=35.0424, lon=33.917615, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,358 INFO: Station parsed: name=FRENAROS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,358 INFO: Station parsed: name=35.042400, lat=35.0424, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,358 INFO: Station parsed: name=33.917615, lat=None, lon=33.917615, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,358 INFO: Station parsed: name=KALAVASOS, lat=34.8044694, lon=33.263475, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,358 INFO: Station parsed: name=KALAVASOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,358 INFO: Station parsed: name=34.8044694, lat=34.8044694, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,358 INFO: Station parsed: name=33.2634750, lat=None, lon=33.263475, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,358 INFO: Station parsed: name=KALOPANAYIOTIS, lat=35.0053389, lon=32.8262694, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,358 INFO: Station parsed: name=KALOPANAYIOTIS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,359 INFO: Station parsed: name=35.0053389, lat=35.0053389, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,359 INFO: Station parsed: name=32.8262694, lat=None, lon=32.8262694, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,359 INFO: Station parsed: name=KAMPOS, lat=35.072153, lon=32.774028, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,359 INFO: Station parsed: name=KAMPOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,359 INFO: Station parsed: name=35.072153, lat=35.072153, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,359 INFO: Station parsed: name=32.774028, lat=None, lon=32.774028, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,359 INFO: Station parsed: name=KANNAVIOU, lat=34.9297861, lon=32.5859667, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,359 INFO: Station parsed: name=KANNAVIOU, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,359 INFO: Station parsed: name=34.9297861, lat=34.9297861, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,359 INFO: Station parsed: name=32.5859667, lat=None, lon=32.5859667, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,359 INFO: Station parsed: name=KATHIKAS, lat=34.9140972, lon=32.4123139, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,359 INFO: Station parsed: name=KATHIKAS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,359 INFO: Station parsed: name=34.9140972, lat=34.9140972, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,359 INFO: Station parsed: name=32.4123139, lat=None, lon=32.4123139, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,359 INFO: Station parsed: name=KEPNIC, lat=35.1523889, lon=33.3122806, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,359 INFO: Station parsed: name=KEPNIC, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,359 INFO: Station parsed: name=35.1523889, lat=35.1523889, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,359 INFO: Station parsed: name=33.3122806, lat=None, lon=33.3122806, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,359 INFO: Station parsed: name=KILANI, lat=34.843888, lon=32.844472, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,359 INFO: Station parsed: name=KILANI, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,360 INFO: Station parsed: name=34.843888, lat=34.843888, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,360 INFO: Station parsed: name=32.844472, lat=None, lon=32.844472, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,360 INFO: Station parsed: name=KORNOS, lat=34.913122, lon=33.402211, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,360 INFO: Station parsed: name=KORNOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,360 INFO: Station parsed: name=34.913122, lat=34.913122, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,360 INFO: Station parsed: name=33.402211, lat=None, lon=33.402211, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,360 INFO: Station parsed: name=KOURIS, lat=34.7229111, lon=32.9224361, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,360 INFO: Station parsed: name=KOURIS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,360 INFO: Station parsed: name=34.7229111, lat=34.7229111, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,360 INFO: Station parsed: name=32.9224361, lat=None, lon=32.9224361, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,360 INFO: Station parsed: name=KPYRGOS, lat=35.1815639, lon=32.6870972, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,360 INFO: Station parsed: name=KPYRGOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,360 INFO: Station parsed: name=35.1815639, lat=35.1815639, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,360 INFO: Station parsed: name=32.6870972, lat=None, lon=32.6870972, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,360 INFO: Station parsed: name=KYPEROUNTA, lat=34.9491667, lon=32.9825, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,360 INFO: Station parsed: name=KYPEROUNTA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,360 INFO: Station parsed: name=34.9491667, lat=34.9491667, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,360 INFO: Station parsed: name=32.9825000, lat=None, lon=32.9825, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,360 INFO: Station parsed: name=LCLK, lat=34.873476, lon=33.617338, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,360 INFO: Station parsed: name=LCLK, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,361 INFO: Station parsed: name=34.873476, lat=34.873476, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,361 INFO: Station parsed: name=33.617338, lat=None, lon=33.617338, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,361 INFO: Station parsed: name=LCPH, lat=34.715442, lon=32.479072, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,361 INFO: Station parsed: name=LCPH, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,361 INFO: Station parsed: name=34.715442, lat=34.715442, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,361 INFO: Station parsed: name=32.479072, lat=None, lon=32.479072, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,361 INFO: Station parsed: name=LEFKARA, lat=34.895842, lon=33.292878, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,361 INFO: Station parsed: name=LEFKARA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,361 INFO: Station parsed: name=34.895842, lat=34.895842, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,361 INFO: Station parsed: name=33.292878, lat=None, lon=33.292878, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,361 INFO: Station parsed: name=LEFKOSIA, lat=35.1643667, lon=33.3560722, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,361 INFO: Station parsed: name=LEFKOSIA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,361 INFO: Station parsed: name=35.1643667, lat=35.1643667, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,361 INFO: Station parsed: name=33.3560722, lat=None, lon=33.3560722, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,361 INFO: Station parsed: name=LIMASSOL, lat=34.645719, lon=33.003984, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,361 INFO: Station parsed: name=LIMASSOL, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,361 INFO: Station parsed: name=34.645719, lat=34.645719, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,361 INFO: Station parsed: name=33.003984, lat=None, lon=33.003984, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,361 INFO: Station parsed: name=LINOU, lat=35.067777, lon=32.898208, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,361 INFO: Station parsed: name=LINOU, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,361 INFO: Station parsed: name=35.067777, lat=35.067777, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,362 INFO: Station parsed: name=32.898208, lat=None, lon=32.898208, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,362 INFO: Station parsed: name=LYSOS, lat=35.011868, lon=32.528019, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,362 INFO: Station parsed: name=LYSOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,362 INFO: Station parsed: name=35.011868, lat=35.011868, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,362 INFO: Station parsed: name=32.528019, lat=None, lon=32.528019, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,362 INFO: Station parsed: name=MALLIA, lat=34.8158556, lon=32.785175, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,362 INFO: Station parsed: name=MALLIA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,362 INFO: Station parsed: name=34.8158556, lat=34.8158556, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,362 INFO: Station parsed: name=32.7851750, lat=None, lon=32.785175, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,362 INFO: Station parsed: name=MAMMARI, lat=35.172358, lon=33.2148785, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,362 INFO: Station parsed: name=MAMMARI, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,362 INFO: Station parsed: name=35.1723580, lat=35.172358, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,362 INFO: Station parsed: name=33.2148785, lat=None, lon=33.2148785, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,362 INFO: Station parsed: name=MATHIATIS, lat=34.9611, lon=33.331, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,362 INFO: Station parsed: name=MATHIATIS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,362 INFO: Station parsed: name=34.9611, lat=34.9611, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,362 INFO: Station parsed: name=33.3310, lat=None, lon=33.331, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,362 INFO: Station parsed: name=PANAGIA_BRIDGE, lat=35.0176028, lon=33.0823778, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,362 INFO: Station parsed: name=PANAGIA_BRIDGE, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,362 INFO: Station parsed: name=35.0176028, lat=35.0176028, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,362 INFO: Station parsed: name=33.0823778, lat=None, lon=33.0823778, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,363 INFO: Station parsed: name=PAPHOS, lat=34.7794306, lon=32.4385472, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,363 INFO: Station parsed: name=PAPHOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,363 INFO: Station parsed: name=34.7794306, lat=34.7794306, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,363 INFO: Station parsed: name=32.4385472, lat=None, lon=32.4385472, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,363 INFO: Station parsed: name=PAREKLISIA, lat=34.7388351, lon=33.1590222, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,363 INFO: Station parsed: name=PAREKLISIA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,363 INFO: Station parsed: name=34.7388351, lat=34.7388351, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,363 INFO: Station parsed: name=33.1590222, lat=None, lon=33.1590222, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,363 INFO: Station parsed: name=PENTAKOMO, lat=34.707635, lon=33.261697, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,363 INFO: Station parsed: name=PENTAKOMO, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,363 INFO: Station parsed: name=34.707635, lat=34.707635, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,363 INFO: Station parsed: name=33.261697, lat=None, lon=33.261697, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,363 INFO: Station parsed: name=PLATANIA, lat=34.9477833, lon=32.9258194, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,363 INFO: Station parsed: name=PLATANIA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,363 INFO: Station parsed: name=34.9477833, lat=34.9477833, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,363 INFO: Station parsed: name=32.9258194, lat=None, lon=32.9258194, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,363 INFO: Station parsed: name=POLIS, lat=35.04195, lon=32.437228, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,363 INFO: Station parsed: name=POLIS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,363 INFO: Station parsed: name=35.041950, lat=35.04195, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,363 INFO: Station parsed: name=32.437228, lat=None, lon=32.437228, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,364 INFO: Station parsed: name=POLYSTYPOS, lat=34.944042, lon=33.018864, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,364 INFO: Station parsed: name=POLYSTYPOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,364 INFO: Station parsed: name=34.944042, lat=34.944042, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,364 INFO: Station parsed: name=33.018864, lat=None, lon=33.018864, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,364 INFO: Station parsed: name=PRODROMOS, lat=34.949912, lon=32.830595, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,364 INFO: Station parsed: name=PRODROMOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,364 INFO: Station parsed: name=34.949912, lat=34.949912, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,364 INFO: Station parsed: name=32.830595, lat=None, lon=32.830595, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,364 INFO: Station parsed: name=PYRGOS, lat=35.1415413, lon=32.6163214, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,364 INFO: Station parsed: name=PYRGOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,364 INFO: Station parsed: name=35.1415413, lat=35.1415413, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,364 INFO: Station parsed: name=32.6163214, lat=None, lon=32.6163214, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,364 INFO: Station parsed: name=SAITTAS, lat=34.8632083, lon=32.9113833, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,364 INFO: Station parsed: name=SAITTAS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,364 INFO: Station parsed: name=34.8632083, lat=34.8632083, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,364 INFO: Station parsed: name=32.9113833, lat=None, lon=32.9113833, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,364 INFO: Station parsed: name=TAMASOS, lat=35.0172889, lon=33.249175, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,364 INFO: Station parsed: name=TAMASOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,364 INFO: Station parsed: name=35.0172889, lat=35.0172889, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,364 INFO: Station parsed: name=33.2491750, lat=None, lon=33.249175, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,365 INFO: Station parsed: name=TEPAK, lat=34.67696, lon=33.037545, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,365 INFO: Station parsed: name=TEPAK, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,365 INFO: Station parsed: name=34.676960, lat=34.67696, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,365 INFO: Station parsed: name=33.037545, lat=None, lon=33.037545, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,365 INFO: Station parsed: name=TRIPILOS, lat=34.9893528, lon=32.6817639, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,365 INFO: Station parsed: name=TRIPILOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,365 INFO: Station parsed: name=34.9893528, lat=34.9893528, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,365 INFO: Station parsed: name=32.6817639, lat=None, lon=32.6817639, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,365 INFO: Station parsed: name=TROODOS, lat=34.924542, lon=32.881496, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,365 INFO: Station parsed: name=TROODOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,365 INFO: Station parsed: name=34.924542, lat=34.924542, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,365 INFO: Station parsed: name=32.881496, lat=None, lon=32.881496, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,365 INFO: Station parsed: name=VISITOR, lat=35.144477, lon=33.403387, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,365 INFO: Station parsed: name=VISITOR, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,365 INFO: Station parsed: name=35.144477, lat=35.144477, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,365 INFO: Station parsed: name=33.403387, lat=None, lon=33.403387, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,365 INFO: Station parsed: name=XYLIATOS, lat=35.0140917, lon=33.0492028, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,365 INFO: Station parsed: name=XYLIATOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,365 INFO: Station parsed: name=35.0140917, lat=35.0140917, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,365 INFO: Station parsed: name=33.0492028, lat=None, lon=33.0492028, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,365 INFO: Station parsed: name=XYLOPHAGOU, lat=34.9778111, lon=33.8379889, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,366 INFO: Station parsed: name=XYLOPHAGOU, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,366 INFO: Station parsed: name=34.9778111, lat=34.9778111, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,366 INFO: Station parsed: name=33.8379889, lat=None, lon=33.8379889, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,366 INFO: Station parsed: name=ZYGI, lat=34.741325, lon=33.3271, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,366 INFO: Station parsed: name=ZYGI, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,366 INFO: Station parsed: name=34.7413250, lat=34.741325, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,366 INFO: Station parsed: name=33.327100, lat=None, lon=33.3271, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,366 INFO: Station parsed: name=ACHNA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,366 INFO: Station parsed: name=ACHNA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,366 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,366 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,366 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,366 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,366 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,366 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,366 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,366 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,366 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,367 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,367 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,367 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,367 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,367 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,367 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,367 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,367 INFO: Station parsed: name=AGROS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,367 INFO: Station parsed: name=AGROS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,367 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,367 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,367 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,367 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,367 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,367 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,367 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,367 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,367 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,368 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,368 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,368 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,368 INFO: Station parsed: name=Direct Solar Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,368 INFO: Station parsed: name=Direct Solar Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,368 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,368 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,368 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,368 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,368 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,368 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,368 INFO: Station parsed: name=AKAMAS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,368 INFO: Station parsed: name=AKAMAS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,368 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,368 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,368 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,368 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,368 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,369 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,369 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,369 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,369 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,369 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,369 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,369 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,369 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,369 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,369 INFO: Station parsed: name=ASTROMERITIS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,369 INFO: Station parsed: name=ASTROMERITIS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,369 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,369 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,369 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,369 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,369 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,369 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,370 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,370 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,370 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,370 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,370 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,370 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,370 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,370 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,370 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,370 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,370 INFO: Station parsed: name=ATHALASSA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,370 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,370 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,370 INFO: Station parsed: name=Air Temperature (5cm), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,370 INFO: Station parsed: name=Air Temperature (5cm), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,370 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,370 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,370 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,370 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,370 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,371 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,371 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,371 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,371 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,371 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,371 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,371 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,371 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,371 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,371 INFO: Station parsed: name=Atmospheric Pressure (Station Level), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,371 INFO: Station parsed: name=Atmospheric Pressure (Station Level), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,371 INFO: Station parsed: name=Atmospheric Pressure (Mean Sea Level), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,371 INFO: Station parsed: name=Atmospheric Pressure (Mean Sea Level), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,371 INFO: Station parsed: name=ATHIENOU, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,371 INFO: Station parsed: name=ATHIENOU, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,371 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,371 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,371 INFO: Station parsed: name=Air Temperature (5cm), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,372 INFO: Station parsed: name=Air Temperature (5cm), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,372 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,372 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,372 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,372 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,372 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,372 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,372 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,372 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,372 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,372 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,372 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,372 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,372 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,372 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,372 INFO: Station parsed: name=AVDIMOU, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,372 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,372 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,372 INFO: Station parsed: name=Air Temperature (5cm), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,372 INFO: Station parsed: name=Air Temperature (5cm), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,373 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,373 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,373 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,373 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,373 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,373 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,373 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,373 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,373 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,373 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,373 INFO: Station parsed: name=Direct Solar Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,373 INFO: Station parsed: name=Direct Solar Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,373 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,373 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,373 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,373 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,373 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,373 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,374 INFO: Station parsed: name=CAVO_GRECO, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,374 INFO: Station parsed: name=CAVO_GRECO, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,374 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,374 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,374 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,374 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,374 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,374 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,374 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,374 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,374 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,374 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,374 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,374 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,374 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,374 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,374 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,374 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,374 INFO: Station parsed: name=Atmospheric Pressure (Station Level), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,375 INFO: Station parsed: name=Atmospheric Pressure (Station Level), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,375 INFO: Station parsed: name=CHROMIO, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,375 INFO: Station parsed: name=CHROMIO, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,375 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,375 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,375 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,375 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,375 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,375 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,375 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,375 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,375 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,375 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,375 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,375 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,375 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,375 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,375 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,376 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,376 INFO: Station parsed: name=CYTASAT, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,376 INFO: Station parsed: name=CYTASAT, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,376 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,376 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,376 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,376 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,376 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,376 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,376 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,376 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,376 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,376 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,376 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,376 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,376 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,376 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,377 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,377 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,377 INFO: Station parsed: name=Atmospheric Pressure (Station Level), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,377 INFO: Station parsed: name=Atmospheric Pressure (Station Level), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,377 INFO: Station parsed: name=Atmospheric Pressure (Mean Sea Level), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,377 INFO: Station parsed: name=Atmospheric Pressure (Mean Sea Level), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,377 INFO: Station parsed: name=EPTAGONEIA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,377 INFO: Station parsed: name=EPTAGONEIA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,377 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,377 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,377 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,377 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,377 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,377 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,377 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,377 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,377 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,377 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,378 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,378 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,378 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,378 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,378 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,378 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,378 INFO: Station parsed: name=FARMAKAS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,378 INFO: Station parsed: name=FARMAKAS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,378 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,378 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,378 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,378 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,378 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,378 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,378 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,378 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,378 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,379 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,379 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,379 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,379 INFO: Station parsed: name=Direct Solar Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,379 INFO: Station parsed: name=Direct Solar Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,379 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,379 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,379 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,379 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,379 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,379 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,379 INFO: Station parsed: name=FRENAROS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,379 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,379 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,379 INFO: Station parsed: name=Air Temperature (5cm), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,379 INFO: Station parsed: name=Air Temperature (5cm), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,379 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,379 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,379 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,379 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,380 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,380 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,380 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,380 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,380 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,380 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,380 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,380 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,380 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,380 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,380 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,380 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,380 INFO: Station parsed: name=Atmospheric Pressure (Station Level), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,380 INFO: Station parsed: name=Atmospheric Pressure (Station Level), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,380 INFO: Station parsed: name=KALAVASOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,380 INFO: Station parsed: name=KALAVASOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,380 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,380 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,380 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,381 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,381 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,381 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,381 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,381 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,381 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,381 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,381 INFO: Station parsed: name=KALOPANAYIOTIS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,381 INFO: Station parsed: name=KALOPANAYIOTIS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,381 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,381 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,381 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,381 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,381 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,381 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,381 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,381 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,382 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,382 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,382 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,382 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,382 INFO: Station parsed: name=Direct Solar Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,382 INFO: Station parsed: name=Direct Solar Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,382 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,382 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,382 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,382 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,382 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,382 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,382 INFO: Station parsed: name=KAMPOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,382 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,382 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,382 INFO: Station parsed: name=Air Temperature (5cm), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,382 INFO: Station parsed: name=Air Temperature (5cm), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,382 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,382 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,382 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,383 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,383 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,383 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,383 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,383 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,383 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,383 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,383 INFO: Station parsed: name=Direct Solar Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,383 INFO: Station parsed: name=Direct Solar Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,383 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,383 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,383 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,383 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,383 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,383 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,383 INFO: Station parsed: name=KANNAVIOU, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,383 INFO: Station parsed: name=KANNAVIOU, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,383 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,384 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,384 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,384 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,384 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,384 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,384 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,384 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,384 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,384 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,384 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,384 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,384 INFO: Station parsed: name=KATHIKAS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,384 INFO: Station parsed: name=KATHIKAS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,384 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,384 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,384 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,384 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,384 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,384 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,385 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,385 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,385 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,385 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,385 INFO: Station parsed: name=Accumulated Rainfall (24 hours), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,385 INFO: Station parsed: name=Accumulated Rainfall (24 hours), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,385 INFO: Station parsed: name=KEPNIC, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,385 INFO: Station parsed: name=KEPNIC, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,385 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,385 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,385 INFO: Station parsed: name=KILANI, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,385 INFO: Station parsed: name=KILANI, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,385 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,385 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,385 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,385 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,385 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,385 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,386 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,386 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,386 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,386 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,386 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,386 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,386 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,386 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,386 INFO: Station parsed: name=KORNOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,386 INFO: Station parsed: name=KORNOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,386 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,386 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,386 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,386 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,386 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,386 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,386 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,386 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,387 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,387 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,387 INFO: Station parsed: name=KOURIS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,387 INFO: Station parsed: name=KOURIS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,387 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,387 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,387 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,387 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,387 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,387 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,387 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,387 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,387 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,387 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,387 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,387 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,387 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,387 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,388 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,388 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,388 INFO: Station parsed: name=KPYRGOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,388 INFO: Station parsed: name=KPYRGOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,388 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,388 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,388 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,388 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,388 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,388 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,388 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,388 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,388 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,388 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,388 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,388 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,388 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,388 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,389 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,389 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,389 INFO: Station parsed: name=KYPEROUNTA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,389 INFO: Station parsed: name=KYPEROUNTA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,389 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,389 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,389 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,389 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,389 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,389 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,389 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,389 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,389 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,389 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,389 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,389 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,390 INFO: Station parsed: name=LCLK, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,390 INFO: Station parsed: name=LCLK, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,390 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,390 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,390 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,390 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,390 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,390 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,390 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,390 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,390 INFO: Station parsed: name=Wind Speed (10m) at Runway 22, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,390 INFO: Station parsed: name=Wind Speed (10m) at Runway 22, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,390 INFO: Station parsed: name=Wind Direction (10m) at Runway 22, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,390 INFO: Station parsed: name=Wind Direction (10m) at Runway 22, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,390 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,390 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,390 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,390 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,390 INFO: Station parsed: name=Atmospheric Pressure (QNH), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,390 INFO: Station parsed: name=Atmospheric Pressure (QNH), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,391 INFO: Station parsed: name=LCPH, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,391 INFO: Station parsed: name=LCPH, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,391 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,391 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,391 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,391 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,391 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,391 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,391 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,391 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,391 INFO: Station parsed: name=Wind Speed (10m) at Runway 29, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,391 INFO: Station parsed: name=Wind Speed (10m) at Runway 29, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,391 INFO: Station parsed: name=Wind Direction (10m) at Runway 29, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,391 INFO: Station parsed: name=Wind Direction (10m) at Runway 29, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,391 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,391 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,391 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,391 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,392 INFO: Station parsed: name=Atmospheric Pressure (QNH), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,392 INFO: Station parsed: name=Atmospheric Pressure (QNH), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,392 INFO: Station parsed: name=LEFKARA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,392 INFO: Station parsed: name=LEFKARA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,392 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,392 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,392 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,392 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,392 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,392 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,392 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,392 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,392 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,392 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,392 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,392 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,393 INFO: Station parsed: name=LEFKOSIA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,393 INFO: Station parsed: name=LEFKOSIA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,393 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,393 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,393 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,393 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,393 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,393 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,393 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,393 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,393 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,393 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,393 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,393 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,393 INFO: Station parsed: name=Accumulated Rainfall (24 hours), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,393 INFO: Station parsed: name=Accumulated Rainfall (24 hours), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,393 INFO: Station parsed: name=LIMASSOL, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,394 INFO: Station parsed: name=LIMASSOL, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,394 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,394 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,394 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,394 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,394 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,394 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,394 INFO: Station parsed: name=Wind Speed (10m) at Port Gate, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,394 INFO: Station parsed: name=Wind Speed (10m) at Port Gate, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,394 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,394 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,394 INFO: Station parsed: name=Wind Direction (10m) at Port Gate, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,394 INFO: Station parsed: name=Wind Direction (10m) at Port Gate, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,394 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,394 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,394 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,394 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,394 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,394 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,394 INFO: Station parsed: name=Atmospheric Pressure (Station Level), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,395 INFO: Station parsed: name=Atmospheric Pressure (Station Level), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,395 INFO: Station parsed: name=LINOU, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,395 INFO: Station parsed: name=LINOU, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,395 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,395 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,395 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,395 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,395 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,395 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,395 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,395 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,395 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,395 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,395 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,395 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,395 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,395 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,395 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,396 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,396 INFO: Station parsed: name=Atmospheric Pressure (Station Level), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,396 INFO: Station parsed: name=Atmospheric Pressure (Station Level), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,396 INFO: Station parsed: name=LYSOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,396 INFO: Station parsed: name=LYSOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,396 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,396 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,396 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,396 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,396 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,396 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,396 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,396 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,396 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,396 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,396 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,396 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,396 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,397 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,397 INFO: Station parsed: name=MALLIA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,397 INFO: Station parsed: name=MALLIA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,397 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,397 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,397 INFO: Station parsed: name=Air Temperature (5cm), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,397 INFO: Station parsed: name=Air Temperature (5cm), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,397 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,397 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,397 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,397 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,397 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,397 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,397 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,397 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,397 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,397 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,398 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,398 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,398 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,398 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,398 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,398 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,398 INFO: Station parsed: name=MAMMARI, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,398 INFO: Station parsed: name=MAMMARI, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,398 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,398 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,398 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,398 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,398 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,398 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,398 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,398 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,398 INFO: Station parsed: name=Wind Speed (10m) at Runway 12, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,399 INFO: Station parsed: name=Wind Speed (10m) at Runway 12, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,399 INFO: Station parsed: name=Wind Direction (10m) at Runway 12, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,399 INFO: Station parsed: name=Wind Direction (10m) at Runway 12, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,399 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,399 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,399 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,399 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,399 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,399 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,399 INFO: Station parsed: name=Atmospheric Pressure (QNH), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,399 INFO: Station parsed: name=Atmospheric Pressure (QNH), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,399 INFO: Station parsed: name=MATHIATIS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,399 INFO: Station parsed: name=MATHIATIS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,399 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,399 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,399 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,399 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,399 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,400 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,400 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,400 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,400 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,400 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,400 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,400 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,400 INFO: Station parsed: name=Direct Solar Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,400 INFO: Station parsed: name=Direct Solar Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,400 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,400 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,400 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,400 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,400 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,400 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,400 INFO: Station parsed: name=PANAGIA_BRIDGE, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,400 INFO: Station parsed: name=PANAGIA_BRIDGE, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,400 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,401 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,401 INFO: Station parsed: name=Air Temperature (5cm), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,401 INFO: Station parsed: name=Air Temperature (5cm), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,401 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,401 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,401 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,401 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,401 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,401 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,401 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,401 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,401 INFO: Station parsed: name=PAPHOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,401 INFO: Station parsed: name=PAPHOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,401 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,401 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,401 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,401 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,401 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,402 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,402 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,402 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,402 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,402 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,402 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,402 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,402 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,402 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,402 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,402 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,402 INFO: Station parsed: name=PAREKLISIA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,402 INFO: Station parsed: name=PAREKLISIA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,402 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,402 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,402 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,402 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,402 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,403 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,403 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,403 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,403 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,403 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,403 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,403 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,403 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,403 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,403 INFO: Station parsed: name=PENTAKOMO, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,403 INFO: Station parsed: name=PENTAKOMO, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,403 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,403 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,403 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,403 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,403 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,403 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,403 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,404 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,404 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,404 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,404 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,404 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,404 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,404 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,404 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,404 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,404 INFO: Station parsed: name=PLATANIA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,404 INFO: Station parsed: name=PLATANIA, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,404 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,404 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,404 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,404 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,404 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,404 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,404 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,405 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,405 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,405 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,405 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,405 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,405 INFO: Station parsed: name=POLIS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,405 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,405 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,405 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,405 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,405 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,405 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,405 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,405 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,405 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,405 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,405 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,405 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,405 INFO: Station parsed: name=Direct Solar Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,405 INFO: Station parsed: name=Direct Solar Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,406 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,406 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,406 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,406 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,406 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,406 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,406 INFO: Station parsed: name=Atmospheric Pressure (Station Level), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,406 INFO: Station parsed: name=Atmospheric Pressure (Station Level), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,406 INFO: Station parsed: name=Atmospheric Pressure (Mean Sea Level), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,406 INFO: Station parsed: name=Atmospheric Pressure (Mean Sea Level), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,406 INFO: Station parsed: name=POLYSTYPOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,406 INFO: Station parsed: name=POLYSTYPOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,406 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,406 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,406 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,406 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,406 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,406 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,407 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,407 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,407 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,407 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,407 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,407 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,407 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,407 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,407 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,407 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,407 INFO: Station parsed: name=PRODROMOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,407 INFO: Station parsed: name=PRODROMOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,407 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,407 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,407 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,407 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,407 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,407 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,408 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,408 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,408 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,408 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,408 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,408 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,408 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,408 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,408 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,408 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,408 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,408 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,408 INFO: Station parsed: name=PYRGOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,408 INFO: Station parsed: name=PYRGOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,408 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,408 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,408 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,408 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,409 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,409 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,409 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,409 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,409 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,409 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,409 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,409 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,409 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,409 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,409 INFO: Station parsed: name=SAITTAS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,409 INFO: Station parsed: name=SAITTAS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,409 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,409 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,409 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,409 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,409 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,409 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,409 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,410 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,410 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,410 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,410 INFO: Station parsed: name=TAMASOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,410 INFO: Station parsed: name=TAMASOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,410 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,410 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,410 INFO: Station parsed: name=Air Temperature (5cm), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,410 INFO: Station parsed: name=Air Temperature (5cm), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,410 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,410 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,410 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,410 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,410 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,410 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,410 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,410 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,411 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,411 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,411 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,411 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,411 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,411 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,411 INFO: Station parsed: name=TEPAK, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,411 INFO: Station parsed: name=TEPAK, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,411 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,411 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,411 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,411 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,411 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,411 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,411 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,411 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,411 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,411 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,412 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,412 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,412 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,412 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,412 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,412 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,412 INFO: Station parsed: name=Accumulated Rainfall (24 hours), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,412 INFO: Station parsed: name=Accumulated Rainfall (24 hours), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,412 INFO: Station parsed: name=TRIPILOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,412 INFO: Station parsed: name=TRIPILOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,412 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,412 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,412 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,412 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,412 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,412 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,412 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,412 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,413 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,413 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,413 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,413 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,413 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,413 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,413 INFO: Station parsed: name=TROODOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,413 INFO: Station parsed: name=TROODOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,413 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,413 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,413 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,413 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,413 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,413 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,413 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,413 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,413 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,413 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,414 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,414 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,414 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,414 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,414 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,414 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,414 INFO: Station parsed: name=Atmospheric Pressure (Station Level), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,414 INFO: Station parsed: name=Atmospheric Pressure (Station Level), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,414 INFO: Station parsed: name=VISITOR, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,414 INFO: Station parsed: name=VISITOR, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,414 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,414 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,414 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,414 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,414 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,414 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,414 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,414 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,415 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,415 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,415 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,415 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,415 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,415 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,415 INFO: Station parsed: name=XYLIATOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,415 INFO: Station parsed: name=XYLIATOS, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,415 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,415 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,415 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,415 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,415 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,415 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,415 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,415 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,415 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,415 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,416 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,416 INFO: Station parsed: name=Global Radiation, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,416 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,416 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,416 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,416 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,416 INFO: Station parsed: name=XYLOPHAGOU, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,416 INFO: Station parsed: name=XYLOPHAGOU, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,416 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,416 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,416 INFO: Station parsed: name=Air Temperature (5cm), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,416 INFO: Station parsed: name=Air Temperature (5cm), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,416 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,416 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,416 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,416 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,416 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,417 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,417 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,417 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,417 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,417 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,417 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,417 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,417 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,417 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,417 INFO: Station parsed: name=ZYGI, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,417 INFO: Station parsed: name=ZYGI, lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,417 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,417 INFO: Station parsed: name=Air Temperature (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,417 INFO: Station parsed: name=Air Temperature (5cm), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,417 INFO: Station parsed: name=Air Temperature (5cm), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,417 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,417 INFO: Station parsed: name=Extreme Day Max. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,417 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,418 INFO: Station parsed: name=Extreme Day Min. Temp., lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,418 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,418 INFO: Station parsed: name=Wind Speed (2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,418 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,418 INFO: Station parsed: name=Wind Speed (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,418 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,418 INFO: Station parsed: name=Wind Direction (10m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,418 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,418 INFO: Station parsed: name=Relative Humidity (1.2m), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,418 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None
+2025-08-23 13:10:14,418 INFO: Station parsed: name=Accumulated Rainfall (10 min.), lat=None, lon=None, temp=None, rh=None, wind_mps=None

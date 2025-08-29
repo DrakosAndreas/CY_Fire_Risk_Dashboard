@@ -1,0 +1,429 @@
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 45
+[OK] wrote dom_enrich.csv rows: 45
+[gust warn] 35.0255,33.7744: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Max retries exceeded with url: /v1/forecast?latitude=35.0255&longitude=33.7744&current=wind_gusts_10m&windspeed_unit=ms&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107aaf990>: Failed to resolve 'api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[rain warn] 35.0255,33.7744: HTTPSConnectionPool(host='archive-api.open-meteo.com', port=443): Max retries exceeded with url: /v1/era5?latitude=35.0255&longitude=33.7744&start_date=2025-08-20&end_date=2025-08-26&daily=precipitation_sum&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107abf710>: Failed to resolve 'archive-api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[gust warn] 35.026,32.3289: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Max retries exceeded with url: /v1/forecast?latitude=35.026&longitude=32.3289&current=wind_gusts_10m&windspeed_unit=ms&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107abe590>: Failed to resolve 'api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[rain warn] 35.026,32.3289: HTTPSConnectionPool(host='archive-api.open-meteo.com', port=443): Max retries exceeded with url: /v1/era5?latitude=35.026&longitude=32.3289&start_date=2025-08-20&end_date=2025-08-26&daily=precipitation_sum&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107abc1d0>: Failed to resolve 'archive-api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[gust warn] 35.133,33.022: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Max retries exceeded with url: /v1/forecast?latitude=35.133&longitude=33.022&current=wind_gusts_10m&windspeed_unit=ms&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107ad12d0>: Failed to resolve 'api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[rain warn] 35.133,33.022: HTTPSConnectionPool(host='archive-api.open-meteo.com', port=443): Max retries exceeded with url: /v1/era5?latitude=35.133&longitude=33.022&start_date=2025-08-20&end_date=2025-08-26&daily=precipitation_sum&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107a855d0>: Failed to resolve 'archive-api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[gust warn] 35.141,33.3966: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Max retries exceeded with url: /v1/forecast?latitude=35.141&longitude=33.3966&current=wind_gusts_10m&windspeed_unit=ms&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107ad1350>: Failed to resolve 'api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[rain warn] 35.141,33.3966: HTTPSConnectionPool(host='archive-api.open-meteo.com', port=443): Max retries exceeded with url: /v1/era5?latitude=35.141&longitude=33.3966&start_date=2025-08-20&end_date=2025-08-26&daily=precipitation_sum&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107abf390>: Failed to resolve 'archive-api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[gust warn] 35.0502,33.5423: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Max retries exceeded with url: /v1/forecast?latitude=35.0502&longitude=33.5423&current=wind_gusts_10m&windspeed_unit=ms&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107aad490>: Failed to resolve 'api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[rain warn] 35.0502,33.5423: HTTPSConnectionPool(host='archive-api.open-meteo.com', port=443): Max retries exceeded with url: /v1/era5?latitude=35.0502&longitude=33.5423&start_date=2025-08-20&end_date=2025-08-26&daily=precipitation_sum&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107abde10>: Failed to resolve 'archive-api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[gust warn] 34.8159,32.7852: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Max retries exceeded with url: /v1/forecast?latitude=34.8159&longitude=32.7852&current=wind_gusts_10m&windspeed_unit=ms&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107aca410>: Failed to resolve 'api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[rain warn] 34.8159,32.7852: HTTPSConnectionPool(host='archive-api.open-meteo.com', port=443): Max retries exceeded with url: /v1/era5?latitude=34.8159&longitude=32.7852&start_date=2025-08-20&end_date=2025-08-26&daily=precipitation_sum&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107ae8e10>: Failed to resolve 'archive-api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[gust warn] 35.1724,33.2149: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Max retries exceeded with url: /v1/forecast?latitude=35.1724&longitude=33.2149&current=wind_gusts_10m&windspeed_unit=ms&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107acbb10>: Failed to resolve 'api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[rain warn] 35.1724,33.2149: HTTPSConnectionPool(host='archive-api.open-meteo.com', port=443): Max retries exceeded with url: /v1/era5?latitude=35.1724&longitude=33.2149&start_date=2025-08-20&end_date=2025-08-26&daily=precipitation_sum&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107abf410>: Failed to resolve 'archive-api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[gust warn] 34.9611,33.331: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Max retries exceeded with url: /v1/forecast?latitude=34.9611&longitude=33.331&current=wind_gusts_10m&windspeed_unit=ms&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107aeb090>: Failed to resolve 'api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[rain warn] 34.9611,33.331: HTTPSConnectionPool(host='archive-api.open-meteo.com', port=443): Max retries exceeded with url: /v1/era5?latitude=34.9611&longitude=33.331&start_date=2025-08-20&end_date=2025-08-26&daily=precipitation_sum&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107abf6d0>: Failed to resolve 'archive-api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[gust warn] 34.7794,32.4386: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Max retries exceeded with url: /v1/forecast?latitude=34.7794&longitude=32.4386&current=wind_gusts_10m&windspeed_unit=ms&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107aaf310>: Failed to resolve 'api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[rain warn] 34.7794,32.4386: HTTPSConnectionPool(host='archive-api.open-meteo.com', port=443): Max retries exceeded with url: /v1/era5?latitude=34.7794&longitude=32.4386&start_date=2025-08-20&end_date=2025-08-26&daily=precipitation_sum&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107ae9250>: Failed to resolve 'archive-api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[gust warn] 34.7388,33.159: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Max retries exceeded with url: /v1/forecast?latitude=34.7388&longitude=33.159&current=wind_gusts_10m&windspeed_unit=ms&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107ac8750>: Failed to resolve 'api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[rain warn] 34.7388,33.159: HTTPSConnectionPool(host='archive-api.open-meteo.com', port=443): Max retries exceeded with url: /v1/era5?latitude=34.7388&longitude=33.159&start_date=2025-08-20&end_date=2025-08-26&daily=precipitation_sum&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107ae9210>: Failed to resolve 'archive-api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[gust warn] 34.7076,33.2617: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Max retries exceeded with url: /v1/forecast?latitude=34.7076&longitude=33.2617&current=wind_gusts_10m&windspeed_unit=ms&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107abcfd0>: Failed to resolve 'api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[rain warn] 34.7076,33.2617: HTTPSConnectionPool(host='archive-api.open-meteo.com', port=443): Max retries exceeded with url: /v1/era5?latitude=34.7076&longitude=33.2617&start_date=2025-08-20&end_date=2025-08-26&daily=precipitation_sum&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x106b27390>: Failed to resolve 'archive-api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[gust warn] 34.9478,32.9258: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Max retries exceeded with url: /v1/forecast?latitude=34.9478&longitude=32.9258&current=wind_gusts_10m&windspeed_unit=ms&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107ad06d0>: Failed to resolve 'api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[rain warn] 34.9478,32.9258: HTTPSConnectionPool(host='archive-api.open-meteo.com', port=443): Max retries exceeded with url: /v1/era5?latitude=34.9478&longitude=32.9258&start_date=2025-08-20&end_date=2025-08-26&daily=precipitation_sum&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107ae83d0>: Failed to resolve 'archive-api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[gust warn] 35.042,32.4372: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Max retries exceeded with url: /v1/forecast?latitude=35.042&longitude=32.4372&current=wind_gusts_10m&windspeed_unit=ms&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x107ad2c10>: Failed to resolve 'api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[OK] wrote dom_enrich.csv rows: 45
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[rain warn] 35.1644,33.3561: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 45
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[rain warn] 35.0255,33.7744: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0255&longitude=33.7744&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9149,33.0157: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9149&longitude=33.0157&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.026,32.3289: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.026&longitude=32.3289&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.133,33.022: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.133&longitude=33.022&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.141,33.3966: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.141&longitude=33.3966&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0502,33.5423: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0502&longitude=33.5423&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.6844,32.7574: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.6844&longitude=32.7574&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.971,34.0708: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.971&longitude=34.0708&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.943,32.8655: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.943&longitude=32.8655&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8613,33.3825: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8613&longitude=33.3825&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8473,33.1434: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8473&longitude=33.1434&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9209,33.1342: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9209&longitude=33.1342&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0424,33.9176: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0424&longitude=33.9176&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0053,32.8263: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0053&longitude=32.8263&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0722,32.774: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0722&longitude=32.774&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9298,32.586: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9298&longitude=32.586&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8439,32.8445: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8439&longitude=32.8445&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7229,32.9224: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7229&longitude=32.9224&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1816,32.6871: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1816&longitude=32.6871&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9492,32.9825: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9492&longitude=32.9825&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8735,33.6173: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8735&longitude=33.6173&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7154,32.4791: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7154&longitude=32.4791&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8958,33.2929: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8958&longitude=33.2929&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1644,33.3561: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1644&longitude=33.3561&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.6457,33.004: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.6457&longitude=33.004&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0678,32.8982: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0678&longitude=32.8982&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0119,32.528: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0119&longitude=32.528&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8159,32.7852: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8159&longitude=32.7852&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1724,33.2149: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1724&longitude=33.2149&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9611,33.331: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9611&longitude=33.331&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7794,32.4386: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7794&longitude=32.4386&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7388,33.159: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7388&longitude=33.159&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7076,33.2617: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7076&longitude=33.2617&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9478,32.9258: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9478&longitude=32.9258&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.042,32.4372: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.042&longitude=32.4372&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.944,33.0189: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.944&longitude=33.0189&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9499,32.8306: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9499&longitude=32.8306&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1415,32.6163: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1415&longitude=32.6163&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0173,33.2492: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0173&longitude=33.2492&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.677,33.0376: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.677&longitude=33.0376&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9894,32.6818: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9894&longitude=32.6818&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9245,32.8815: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9245&longitude=32.8815&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1445,33.4034: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1445&longitude=33.4034&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0141,33.0492: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0141&longitude=33.0492&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9778,33.838: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9778&longitude=33.838&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7413,33.3271: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7413&longitude=33.3271&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[OK] wrote dom_enrich.csv rows: 46
+[rain warn] 35.0255,33.7744: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0255&longitude=33.7744&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.026,32.3289: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.026&longitude=32.3289&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.133,33.022: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.133&longitude=33.022&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.141,33.3966: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.141&longitude=33.3966&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0502,33.5423: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0502&longitude=33.5423&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.6844,32.7574: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.6844&longitude=32.7574&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.971,34.0708: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.971&longitude=34.0708&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.943,32.8655: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.943&longitude=32.8655&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8613,33.3825: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8613&longitude=33.3825&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8473,33.1434: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8473&longitude=33.1434&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9209,33.1342: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9209&longitude=33.1342&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0424,33.9176: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0424&longitude=33.9176&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0053,32.8263: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0053&longitude=32.8263&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0722,32.774: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0722&longitude=32.774&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9298,32.586: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9298&longitude=32.586&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8439,32.8445: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8439&longitude=32.8445&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7229,32.9224: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7229&longitude=32.9224&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1816,32.6871: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1816&longitude=32.6871&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9492,32.9825: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9492&longitude=32.9825&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8735,33.6173: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8735&longitude=33.6173&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7154,32.4791: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7154&longitude=32.4791&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8958,33.2929: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8958&longitude=33.2929&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1644,33.3561: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1644&longitude=33.3561&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.6457,33.004: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.6457&longitude=33.004&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0678,32.8982: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0678&longitude=32.8982&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0119,32.528: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0119&longitude=32.528&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8159,32.7852: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8159&longitude=32.7852&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1724,33.2149: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1724&longitude=33.2149&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9611,33.331: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9611&longitude=33.331&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7794,32.4386: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7794&longitude=32.4386&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7388,33.159: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7388&longitude=33.159&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7076,33.2617: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7076&longitude=33.2617&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9478,32.9258: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9478&longitude=32.9258&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.042,32.4372: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.042&longitude=32.4372&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.944,33.0189: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.944&longitude=33.0189&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9499,32.8306: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9499&longitude=32.8306&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1415,32.6163: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1415&longitude=32.6163&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0173,33.2492: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0173&longitude=33.2492&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.677,33.0376: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.677&longitude=33.0376&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9894,32.6818: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9894&longitude=32.6818&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9245,32.8815: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9245&longitude=32.8815&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1445,33.4034: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1445&longitude=33.4034&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0141,33.0492: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0141&longitude=33.0492&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9778,33.838: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9778&longitude=33.838&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7413,33.3271: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7413&longitude=33.3271&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[OK] wrote dom_enrich.csv rows: 45
+[rain warn] 35.0255,33.7744: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0255&longitude=33.7744&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.026,32.3289: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.026&longitude=32.3289&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.133,33.022: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.133&longitude=33.022&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.141,33.3966: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.141&longitude=33.3966&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0502,33.5423: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0502&longitude=33.5423&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.6844,32.7574: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.6844&longitude=32.7574&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.971,34.0708: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.971&longitude=34.0708&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.943,32.8655: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.943&longitude=32.8655&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8613,33.3825: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8613&longitude=33.3825&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8473,33.1434: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8473&longitude=33.1434&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9209,33.1342: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9209&longitude=33.1342&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0424,33.9176: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0424&longitude=33.9176&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0053,32.8263: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0053&longitude=32.8263&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0722,32.774: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0722&longitude=32.774&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9298,32.586: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9298&longitude=32.586&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8439,32.8445: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8439&longitude=32.8445&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7229,32.9224: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7229&longitude=32.9224&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1816,32.6871: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1816&longitude=32.6871&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9492,32.9825: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9492&longitude=32.9825&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8735,33.6173: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8735&longitude=33.6173&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7154,32.4791: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7154&longitude=32.4791&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8958,33.2929: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8958&longitude=33.2929&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1644,33.3561: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1644&longitude=33.3561&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.6457,33.004: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.6457&longitude=33.004&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0678,32.8982: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0678&longitude=32.8982&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0119,32.528: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0119&longitude=32.528&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8159,32.7852: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8159&longitude=32.7852&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1724,33.2149: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1724&longitude=33.2149&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9611,33.331: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9611&longitude=33.331&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7794,32.4386: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7794&longitude=32.4386&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7388,33.159: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7388&longitude=33.159&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7076,33.2617: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7076&longitude=33.2617&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9478,32.9258: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9478&longitude=32.9258&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.042,32.4372: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.042&longitude=32.4372&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.944,33.0189: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.944&longitude=33.0189&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9499,32.8306: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9499&longitude=32.8306&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1415,32.6163: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1415&longitude=32.6163&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0173,33.2492: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0173&longitude=33.2492&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.677,33.0376: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.677&longitude=33.0376&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9894,32.6818: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9894&longitude=32.6818&start_date=2025-08-21&end_date=2025-08-27&daily=precipitation_sum&timezone=auto
+[OK] wrote dom_enrich.csv rows: 45
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 45
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 45
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[OK] wrote dom_enrich.csv rows: 46
+[rain warn] 35.0255,33.7744: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0255&longitude=33.7744&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9149,33.0157: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9149&longitude=33.0157&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.026,32.3289: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.026&longitude=32.3289&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.133,33.022: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.133&longitude=33.022&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.141,33.3966: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.141&longitude=33.3966&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0502,33.5423: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0502&longitude=33.5423&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.6844,32.7574: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.6844&longitude=32.7574&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.971,34.0708: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.971&longitude=34.0708&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.943,32.8655: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.943&longitude=32.8655&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8613,33.3825: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8613&longitude=33.3825&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8473,33.1434: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8473&longitude=33.1434&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9209,33.1342: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9209&longitude=33.1342&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0424,33.9176: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0424&longitude=33.9176&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0053,32.8263: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0053&longitude=32.8263&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0722,32.774: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0722&longitude=32.774&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9298,32.586: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9298&longitude=32.586&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8439,32.8445: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8439&longitude=32.8445&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7229,32.9224: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7229&longitude=32.9224&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1816,32.6871: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1816&longitude=32.6871&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9492,32.9825: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9492&longitude=32.9825&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8735,33.6173: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8735&longitude=33.6173&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7154,32.4791: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7154&longitude=32.4791&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8958,33.2929: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8958&longitude=33.2929&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1644,33.3561: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1644&longitude=33.3561&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.6457,33.004: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.6457&longitude=33.004&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0678,32.8982: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0678&longitude=32.8982&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0119,32.528: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0119&longitude=32.528&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8159,32.7852: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8159&longitude=32.7852&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1724,33.2149: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1724&longitude=33.2149&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9611,33.331: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9611&longitude=33.331&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7794,32.4386: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7794&longitude=32.4386&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7388,33.159: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7388&longitude=33.159&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7076,33.2617: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7076&longitude=33.2617&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9478,32.9258: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9478&longitude=32.9258&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.042,32.4372: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.042&longitude=32.4372&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.944,33.0189: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.944&longitude=33.0189&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9499,32.8306: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9499&longitude=32.8306&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1415,32.6163: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1415&longitude=32.6163&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0173,33.2492: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0173&longitude=33.2492&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.677,33.0376: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.677&longitude=33.0376&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9894,32.6818: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9894&longitude=32.6818&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9245,32.8815: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9245&longitude=32.8815&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1445,33.4034: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1445&longitude=33.4034&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0141,33.0492: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0141&longitude=33.0492&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9778,33.838: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9778&longitude=33.838&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7413,33.3271: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7413&longitude=33.3271&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[OK] wrote dom_enrich.csv rows: 46
+[rain warn] 35.0255,33.7744: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0255&longitude=33.7744&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9149,33.0157: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9149&longitude=33.0157&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.026,32.3289: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.026&longitude=32.3289&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.133,33.022: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.133&longitude=33.022&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.141,33.3966: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.141&longitude=33.3966&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0502,33.5423: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0502&longitude=33.5423&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.6844,32.7574: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.6844&longitude=32.7574&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.971,34.0708: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.971&longitude=34.0708&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.943,32.8655: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.943&longitude=32.8655&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8613,33.3825: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8613&longitude=33.3825&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8473,33.1434: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8473&longitude=33.1434&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9209,33.1342: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9209&longitude=33.1342&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0424,33.9176: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0424&longitude=33.9176&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0053,32.8263: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0053&longitude=32.8263&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0722,32.774: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0722&longitude=32.774&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9298,32.586: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9298&longitude=32.586&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8439,32.8445: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8439&longitude=32.8445&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7229,32.9224: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7229&longitude=32.9224&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1816,32.6871: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1816&longitude=32.6871&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9492,32.9825: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9492&longitude=32.9825&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8735,33.6173: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8735&longitude=33.6173&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7154,32.4791: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7154&longitude=32.4791&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8958,33.2929: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8958&longitude=33.2929&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1644,33.3561: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1644&longitude=33.3561&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.6457,33.004: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.6457&longitude=33.004&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0678,32.8982: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0678&longitude=32.8982&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0119,32.528: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0119&longitude=32.528&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8159,32.7852: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8159&longitude=32.7852&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1724,33.2149: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1724&longitude=33.2149&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9611,33.331: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9611&longitude=33.331&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7794,32.4386: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7794&longitude=32.4386&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7388,33.159: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7388&longitude=33.159&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9478,32.9258: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9478&longitude=32.9258&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.042,32.4372: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.042&longitude=32.4372&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.944,33.0189: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.944&longitude=33.0189&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9499,32.8306: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9499&longitude=32.8306&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1415,32.6163: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1415&longitude=32.6163&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0173,33.2492: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0173&longitude=33.2492&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.677,33.0376: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.677&longitude=33.0376&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9894,32.6818: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9894&longitude=32.6818&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9245,32.8815: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9245&longitude=32.8815&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1445,33.4034: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1445&longitude=33.4034&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0141,33.0492: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0141&longitude=33.0492&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9778,33.838: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9778&longitude=33.838&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7413,33.3271: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7413&longitude=33.3271&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[OK] wrote dom_enrich.csv rows: 45
+[rain warn] 35.0255,33.7744: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0255&longitude=33.7744&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9149,33.0157: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9149&longitude=33.0157&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.026,32.3289: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.026&longitude=32.3289&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.133,33.022: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.133&longitude=33.022&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.141,33.3966: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.141&longitude=33.3966&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0502,33.5423: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0502&longitude=33.5423&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.6844,32.7574: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.6844&longitude=32.7574&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.971,34.0708: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.971&longitude=34.0708&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.943,32.8655: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.943&longitude=32.8655&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8613,33.3825: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8613&longitude=33.3825&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8473,33.1434: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8473&longitude=33.1434&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9209,33.1342: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9209&longitude=33.1342&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0424,33.9176: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0424&longitude=33.9176&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0053,32.8263: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0053&longitude=32.8263&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0722,32.774: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0722&longitude=32.774&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9298,32.586: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9298&longitude=32.586&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8439,32.8445: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8439&longitude=32.8445&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7229,32.9224: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7229&longitude=32.9224&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1816,32.6871: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1816&longitude=32.6871&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9492,32.9825: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9492&longitude=32.9825&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8735,33.6173: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8735&longitude=33.6173&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7154,32.4791: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7154&longitude=32.4791&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8958,33.2929: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8958&longitude=33.2929&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1644,33.3561: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1644&longitude=33.3561&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.6457,33.004: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.6457&longitude=33.004&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0678,32.8982: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0678&longitude=32.8982&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0119,32.528: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0119&longitude=32.528&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.8159,32.7852: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.8159&longitude=32.7852&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1724,33.2149: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1724&longitude=33.2149&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9611,33.331: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9611&longitude=33.331&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7794,32.4386: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7794&longitude=32.4386&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7388,33.159: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7388&longitude=33.159&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9478,32.9258: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9478&longitude=32.9258&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.042,32.4372: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.042&longitude=32.4372&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.944,33.0189: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.944&longitude=33.0189&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9499,32.8306: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9499&longitude=32.8306&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1415,32.6163: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1415&longitude=32.6163&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0173,33.2492: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0173&longitude=33.2492&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.677,33.0376: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.677&longitude=33.0376&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9894,32.6818: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9894&longitude=32.6818&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9245,32.8815: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9245&longitude=32.8815&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.1445,33.4034: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.1445&longitude=33.4034&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 35.0141,33.0492: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=35.0141&longitude=33.0492&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.9778,33.838: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.9778&longitude=33.838&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[rain warn] 34.7413,33.3271: 400 Client Error: Bad Request for url: https://archive-api.open-meteo.com/v1/era5?latitude=34.7413&longitude=33.3271&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto
+[OK] wrote dom_enrich.csv rows: 45
+[gust warn] 35.0141,33.0492: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Max retries exceeded with url: /v1/forecast?latitude=35.0141&longitude=33.0492&current=wind_gusts_10m&windspeed_unit=ms&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1074a2450>: Failed to resolve 'api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[rain warn] 35.0141,33.0492: HTTPSConnectionPool(host='archive-api.open-meteo.com', port=443): Max retries exceeded with url: /v1/era5?latitude=35.0141&longitude=33.0492&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1074a09d0>: Failed to resolve 'archive-api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[gust warn] 34.9778,33.838: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Max retries exceeded with url: /v1/forecast?latitude=34.9778&longitude=33.838&current=wind_gusts_10m&windspeed_unit=ms&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1074addd0>: Failed to resolve 'api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[rain warn] 34.9778,33.838: HTTPSConnectionPool(host='archive-api.open-meteo.com', port=443): Max retries exceeded with url: /v1/era5?latitude=34.9778&longitude=33.838&start_date=2025-08-22&end_date=2025-08-28&daily=precipitation_sum&timezone=auto (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1074c1a50>: Failed to resolve 'archive-api.open-meteo.com' ([Errno 8] nodename nor servname provided, or not known)"))
+[OK] wrote dom_enrich.csv rows: 45
+[OK] wrote dom_enrich.csv rows: 45
+[OK] wrote dom_enrich.csv rows: 45
+[OK] wrote dom_enrich.csv rows: 45
+[OK] wrote dom_enrich.csv rows: 43
+[OK] wrote dom_enrich.csv rows: 44
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
+New FFMC/DMC/DC: Codes(FFMC=92.60790871597939, DMC=6.06429887568, DC=34.647999999999996)
+ISI, BUI, FWI: {'ISI': 17.01407134402589, 'BUI': 8.436904732250474, 'FWI': 12.884903646046038}
+Qualitative danger: High
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
+usage: fetch_openmeteo_enrich.py [-h] --in IN_CSV --out OUT_CSV
+                                 [--sleep SLEEP]
+fetch_openmeteo_enrich.py: error: the following arguments are required: --in, --out
